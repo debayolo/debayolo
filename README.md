@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me email: debayolo@gmail.com
+- 📫 How to reach me email: debayolo968@gmail.com
 - ⚡ Fun fact: Coding
 
 <!---
